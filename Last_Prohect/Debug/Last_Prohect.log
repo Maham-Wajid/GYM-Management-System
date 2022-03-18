@@ -1,0 +1,82 @@
+﻿  Source.cpp
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(305,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(318,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(333,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(346,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(348,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(359,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(383,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(396,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(398,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(411,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(415,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(426,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(442,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(447,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(457,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(467,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(476,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(481,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(491,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(501,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(611,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(639,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(659,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(672,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(674,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(694,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(708,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(710,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(725,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(739,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(759,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(779,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(792,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(812,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(830,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(835,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(841,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(850,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(862,38): error C2760: syntax error: unexpected token '-', expected ','
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(862,39): error C2143: syntax error: missing ']' before 'constant'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(862,39): error C2059: syntax error: 'constant'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(863,39): error C2760: syntax error: unexpected token '-', expected ','
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(863,41): error C2143: syntax error: missing ']' before 'constant'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(863,41): error C2059: syntax error: 'constant'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(864,39): error C2760: syntax error: unexpected token '-', expected ','
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(864,41): error C2143: syntax error: missing ']' before 'constant'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(864,41): error C2059: syntax error: 'constant'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(865,32): error C2275: 'Subscription': illegal use of this type as an expression
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(508): message : see declaration of 'Subscription'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(866,41): error C2275: 'Subscription': illegal use of this type as an expression
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(508): message : see declaration of 'Subscription'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(867,39): error C2275: 'Subscription': illegal use of this type as an expression
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(508): message : see declaration of 'Subscription'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(868,35): error C2275: 'Subscription': illegal use of this type as an expression
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(508): message : see declaration of 'Subscription'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(868,82): error C2275: 'Subscription': illegal use of this type as an expression
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(508): message : see declaration of 'Subscription'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(868,131): error C2275: 'Subscription': illegal use of this type as an expression
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(508): message : see declaration of 'Subscription'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(869,34): error C2275: 'Subscription': illegal use of this type as an expression
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(508): message : see declaration of 'Subscription'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(870,5): error C2360: initialization of 'TempCustomerTime' is skipped by 'case' label
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(861): message : see declaration of 'TempCustomerTime'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(870,5): error C2360: initialization of 'tempTrainerID' is skipped by 'case' label
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(860): message : see declaration of 'tempTrainerID'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(870,5): error C2360: initialization of 'tempCustomerID' is skipped by 'case' label
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(859): message : see declaration of 'tempCustomerID'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(874,5): error C2361: initialization of 'TempCustomerTime' is skipped by 'default' label
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(861): message : see declaration of 'TempCustomerTime'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(874,5): error C2361: initialization of 'tempTrainerID' is skipped by 'default' label
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(860): message : see declaration of 'tempTrainerID'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(874,5): error C2361: initialization of 'tempCustomerID' is skipped by 'default' label
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(859): message : see declaration of 'tempCustomerID'
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(908,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(913,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(923,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(933,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(942,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(947,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(957,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hadia\source\repos\Last_Prohect\Last_Prohect\Source.cpp(967,34): warning C4018: '<': signed/unsigned mismatch

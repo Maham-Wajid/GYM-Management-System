@@ -1,0 +1,8 @@
+ID	Name
+1	Treadmill
+2	Rowing Machine
+3	CardioVascular Machine
+3	Stair Mill
+1	UpRight Bike
+2	Exercise Bike
+3	stair Mill

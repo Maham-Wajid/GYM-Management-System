@@ -1,0 +1,23 @@
+﻿  Source.cpp
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,12): error C2059: syntax error: 'string'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(12,1): error C2143: syntax error: missing ';' before 'public'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(12,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(12,7): warning C4183: 'system': missing return type; assumed to be a member function returning 'int'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(121,21): error C2660: 'GYM::system': function does not take 1 arguments
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,5): message : see declaration of 'GYM::system'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(281,25): error C2660: 'GYM::system': function does not take 1 arguments
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,5): message : see declaration of 'GYM::system'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(287,21): error C2660: 'GYM::system': function does not take 1 arguments
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,5): message : see declaration of 'GYM::system'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(399,25): error C2660: 'GYM::system': function does not take 1 arguments
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,5): message : see declaration of 'GYM::system'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(405,21): error C2660: 'GYM::system': function does not take 1 arguments
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,5): message : see declaration of 'GYM::system'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(413,21): error C2660: 'GYM::system': function does not take 1 arguments
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,5): message : see declaration of 'GYM::system'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(426,21): error C2660: 'GYM::system': function does not take 1 arguments
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,5): message : see declaration of 'GYM::system'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(448,23): error C2660: 'GYM::system': function does not take 1 arguments
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,5): message : see declaration of 'GYM::system'
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(473,19): error C2660: 'GYM::system': function does not take 1 arguments
+D:\Final Project\Last_Project\Last_Prohect\Classes.h(11,5): message : see declaration of 'GYM::system'
